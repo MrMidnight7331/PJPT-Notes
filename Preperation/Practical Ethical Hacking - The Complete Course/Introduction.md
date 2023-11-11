@@ -1,10 +1,10 @@
 # Introduction
->11.11.23
+>11.11.23 - 1.11.2023
 ---
 
 ## Course Introduction
 
-What is ethical hacking
+**What is ethical hacking**
 - Try to hack into company (hired)
 - Breaking into network
 - Webserver hacking
@@ -12,7 +12,7 @@ What is ethical hacking
 - Plane hacking
 - We have permission to hack!!!
 
-Requirements
+**Requirements**
 - Basic IT knowledge
 - 12GB RAM required
 - Wireless Hacking: wireless adapter that supports monitor mode
@@ -23,45 +23,45 @@ Requirements
 
 ## A Day in the Life of an Ethical Hacker
 
-A Pentesters Day to Day
+**A Pentesters Day to Day**
 - Perform an Assessment
 - Write a Report 
 - Give a Debrief
 - Talk about our findings
 
-Assessment: External Network Pentest
+**Assessment: External Network Pentest**
 - Assessing an organization's security from outside the network, property.
 - Focuses heavily on OSINT (Opensource Intelligence) / Collect data that might be beneficial.
 - Lasts about 32-40 hours for Pentest + 6-16 hours for report. Depends on the scope.
 
-Assessment: Internal Network Pentest
+**Assessment: Internal Network Pentest**
 - Assessing an organization's security from inside the network, property.
 - Focuses heavily on Active Directory.
 - Lasts about 32-40 hours for Pentest + 8-16 hours for report. Depends on the scope.
 
-Assessment: Web Application Pentest
+**Assessment: Web Application Pentest**
 - Assessing an organization's web app / web server.
 - Focuses heavily on web based attacks and the [OWASP](https://owasp.org)
 - Focuses on wireless attacks. Depends on the wireless type that is being used (WPA2-PSK vs WPA2 Enterprise)
 - Lasts about 4-8 hours per SSID. 2-4 hours for report.
 
-Assessment: Physical Pentest & Social Engineering
+**Assessment: Physical Pentest & Social Engineering**
 - Assessing an organization's physical security aka social engineering(break into the building, picking locks, cloning tags, social engineering).  Fishing campaign, Smithing campaign (Social Engineering) Depends on the client.
 - Focuses on task and goals from the client.
 - Lasts about 16-40 hours. 4-8 for report. Depends on the engagement.
 
-Other Assessments
+**Other Assessments**
 - Mobile Pentesting
 - IOT (Internet of things) Pentesting
 - Red Team Engagement
 - Purple Team Engagement
 - ETC.
 
-Report Writing
+**Report Writing**
 - Delivered withing a week after the engagement (Depends)
 - Report should be non technical and technical findings
 - Recommendations for remediation should be clear to both executives and technical staff. (It should be very clear!). Also write how you got in and how one could patch it.
 
-Debrief
+**Debrief**
 - A walkthrough through the report and finding. Can be with someone technical or non technical staff
 - Gives opportunity for the client to ask questions and concerns before the final report is released.
