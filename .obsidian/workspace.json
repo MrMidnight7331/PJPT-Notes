@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preperation/Untitled.md",
+                "file": "Preperation/Practical Ethical Hacking - The Complete Course/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preperation/Untitled.md",
+                "file": "Preperation/Practical Ethical Hacking - The Complete Course/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preperation/Untitled.md",
+                "file": "Preperation/Practical Ethical Hacking - The Complete Course/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preperation/Untitled.md"
+                "file": "Preperation/Practical Ethical Hacking - The Complete Course/Introduction.md"
               }
             }
           }
@@ -148,7 +148,11 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
+    "[OWASP.md",
+    "Preperation/Practical Ethical Hacking - The Complete Course/Introduction.md",
     "README.md",
+    "Preperation/Practical Ethical Hacking - The Complete Course/Untitled",
+    "Preperation/Practical Ethical Hacking - The Complete Course",
     "Preperation/Untitled.md",
     "Preperation"
   ]
