@@ -1,2 +1,2 @@
 # PJPT-Notes
-Notes for the PJPT exam!
+Notes for the PJPT exam by TCM Security.
