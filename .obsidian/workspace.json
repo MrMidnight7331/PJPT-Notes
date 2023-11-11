@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Preperation/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Preperation/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Preperation/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Preperation/Untitled.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f930639569e3c1d3",
+  "active": "58240b5698c261b0",
   "lastOpenFiles": [
+    "README.md",
+    "Preperation/Untitled.md",
     "Preperation"
   ]
 }
