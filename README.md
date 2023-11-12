@@ -16,5 +16,6 @@ Notes for the PJPT exam by TCM Security.
 These notes are made with [Obsidian](https://obsidian.md)some syntaxes may not work on github, notion or other .md acceptable editors! For example:
 ```
 ![[README.md]]
+[[1. Introduction]]
 ```
 For the best experience, open these in Obsidian! :)
