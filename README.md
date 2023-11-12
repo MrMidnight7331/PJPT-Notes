@@ -2,7 +2,7 @@
 >11.11.2023 - 
 >MrMidnight
 
-Notes for the PJPT exam by TCM Security.
+Prepping for the PJPT exam at TCM Security.
 
 ---
 ## Table Of Contents
