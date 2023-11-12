@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preperation/Practical Ethical Hacking - The Complete Course/3. Networking Refresher.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preperation/Practical Ethical Hacking - The Complete Course/3. Networking Refresher.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preperation/Practical Ethical Hacking - The Complete Course/3. Networking Refresher.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preperation/Practical Ethical Hacking - The Complete Course/3. Networking Refresher.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,6 +148,19 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
+    "Practical Ethical Hacking - The Complete Course/New Capstone/01. Blue.md",
+    "Practical Ethical Hacking - The Complete Course/New Capstone/02. Academy.md",
+    "Practical Ethical Hacking - The Complete Course/New Capstone/03. Dev.md",
+    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/04. TCP, UDP and the Three Way Handshake.md",
+    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/03. MAC Addresses.md",
+    "Practical Ethical Hacking - The Complete Course/3. Networking Refresher.md",
+    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/02. IP Addresses.md",
+    "Practical Ethical Hacking - The Complete Course/02. Notekeeping/01. Effective Notekeeping.md",
+    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/01. Introduction.md",
+    "Practical Ethical Hacking - The Complete Course/2. Notekeeping.md",
+    "Practical Ethical Hacking - The Complete Course/01. Introduction/02. A Day in the Life of an Ethical Hacker.md",
+    "Practical Ethical Hacking - The Complete Course/1. Introduction.md",
+    "Practical Ethical Hacking - The Complete Course/01. Introduction/01. Course Introduction.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/1. Introduction.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/2. Notekeeping.md",
     "README.md",
