@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/1. Blue.md",
+                "file": "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/3. Dev.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/1. Blue.md",
+                "file": "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/3. Dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/1. Blue.md",
+                "file": "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/3. Dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/1. Blue.md"
+                "file": "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/3. Dev.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
-    "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/2. Academy.md",
-    "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/1. Blue.md",
+    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
+    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev02.png",
+    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev01.png",
+    "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/1. Blue.md",
+    "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/3. Dev.md",
+    "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/2. Academy.md",
     "Capstone Blue.mp4.md",
     "README.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/1. Introduction.md",
@@ -160,7 +164,7 @@
     "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/Images",
     "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/Video Walkthroughs/Capstone Blue.mp4",
     "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/Video Walkthroughs",
-    "Preperation/Practical Ethical Hacking - The Complete Course/Capstone",
+    "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone",
     "Preperation/Practical Ethical Hacking - The Complete Course/Capstone.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/Video",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Network Refresher - Private IP Address.jpg",
