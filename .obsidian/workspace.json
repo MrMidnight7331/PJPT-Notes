@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/09. Scripting with Bash.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/09. Scripting with Bash.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/09. Scripting with Bash.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/09. Scripting with Bash.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/09. Scripting with Bash.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/08. Installing and Updating Tools.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/07. Starting and Stopping Services.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/06. Viewing, Creating, and Editing Files.md",
@@ -157,7 +158,6 @@
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/03. Navigating the File System.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/01. Exploring Kali Linux.md",
     "README.md",
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/09. Scripting with Bash.md",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/07. Subnetting Part 1 & 2.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/00. image/Subnetting Part 1 & 2 Exel sheet.png",
