@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/07. Subnetting Part 1 & 2.md",
+                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/07. Subnetting Part 1 & 2.md",
+                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/07. Subnetting Part 1 & 2.md",
+                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/07. Subnetting Part 1 & 2.md"
+                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
-    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/00. image/Subnetting Part 1 & 2 Exel sheet.png",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/04. Users and Privileges.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/03. Navigating the File System.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/02. Sudo Overview.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/01. Exploring Kali Linux.md",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/07. Subnetting Part 1 & 2.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux",
+    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/00. image/Subnetting Part 1 & 2 Exel sheet.png",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/06. The OSI Model.md",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/05. Common Ports and Protocols.md",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/01. Introduction.md",
@@ -170,13 +176,9 @@
     "Preperation/Practical Ethical Hacking - The Complete Course/2. Notekeeping.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/3. Networking Refresher.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/2. Academy.md",
-    "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/1. Blue.md",
-    "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/3. Dev.md",
-    "Preperation/Practical Ethical Hacking - The Complete Course/Untitled.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev02.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev01.png",
-    "Capstone Blue.mp4.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Academy02.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Academy01.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/Images",
