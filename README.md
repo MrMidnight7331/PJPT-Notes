@@ -4,7 +4,7 @@
 
 Prepping for the PJPT exam at TCM Security.
 ## Warning
-These notes are made with [Obsidian](https://obsidian.md)some syntaxes may not work on GitHub, Notion or other .md acceptable editors! For example:
+These notes are made with [Obsidian](https://obsidian.md) some syntaxes may not work on GitHub, Notion or other .md acceptable editors! For example:
 ```
 ![[README.md]]
 [[1. Introduction]]
