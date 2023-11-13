@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/03. Math.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/02. Strings.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/01. Introduction.md",
+    "README.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/09. Scripting with Bash.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/08. Installing and Updating Tools.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/07. Starting and Stopping Services.md",
@@ -157,7 +163,6 @@
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/02. Sudo Overview.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/03. Navigating the File System.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/01. Exploring Kali Linux.md",
-    "README.md",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/07. Subnetting Part 1 & 2.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/00. image/Subnetting Part 1 & 2 Exel sheet.png",
@@ -172,10 +177,6 @@
     "Practical Ethical Hacking - The Complete Course/New Capstone/03. Dev.md",
     "Practical Ethical Hacking - The Complete Course/New Capstone/02. Academy.md",
     "Practical Ethical Hacking - The Complete Course/New Capstone/01. Blue.md",
-    "Practical Ethical Hacking - The Complete Course/3. Networking Refresher.md",
-    "Practical Ethical Hacking - The Complete Course/02. Notekeeping/01. Effective Notekeeping.md",
-    "Practical Ethical Hacking - The Complete Course/2. Notekeeping.md",
-    "Practical Ethical Hacking - The Complete Course/1. Introduction.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev02.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev01.png",
@@ -192,7 +193,6 @@
     "Images",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Network Refresher - OSI Model.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images",
-    "Preperation/Practical Ethical Hacking - The Complete Course",
-    "Preperation"
+    "Preperation/Practical Ethical Hacking - The Complete Course"
   ]
 }

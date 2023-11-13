@@ -22,7 +22,7 @@ For the best experience, open in Obsidian! :)
 [[01. Effective Notekeeping]]
 
 **3. Networking Refresher:**
-[[01. Introduction]]
+[[Practical Ethical Hacking - The Complete Course/03. Networking Refresher/01. Introduction]]
 [[02. IP Addresses]]
 [[03. MAC Addresses]]
 [[04. TCP, UDP and the Three Way Handshake]]
