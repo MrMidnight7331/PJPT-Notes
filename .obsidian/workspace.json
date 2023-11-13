@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
+                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/08. Installing and Updating Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
+                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/08. Installing and Updating Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
+                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/08. Installing and Updating Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md"
+                "file": "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/08. Installing and Updating Tools.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/04. Users and Privileges.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/07. Starting and Stopping Services.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/08. Installing and Updating Tools.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/06. Viewing, Creating, and Editing Files.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/04. Users and Privileges.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/03. Navigating the File System.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/02. Sudo Overview.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/01. Exploring Kali Linux.md",
@@ -173,9 +176,6 @@
     "Practical Ethical Hacking - The Complete Course/2. Notekeeping.md",
     "Practical Ethical Hacking - The Complete Course/1. Introduction.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/1. Introduction.md",
-    "Preperation/Practical Ethical Hacking - The Complete Course/2. Notekeeping.md",
-    "Preperation/Practical Ethical Hacking - The Complete Course/3. Networking Refresher.md",
-    "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone/2. Academy.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev02.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev01.png",
