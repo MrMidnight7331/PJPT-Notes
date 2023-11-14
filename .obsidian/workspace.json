@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md",
+                "file": "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/01. The Five Stages of Ethical Hacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md",
+                "file": "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/01. The Five Stages of Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md",
+                "file": "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/01. The Five Stages of Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md"
+                "file": "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/01. The Five Stages of Ethical Hacking.md"
               }
             }
           }
@@ -148,12 +148,16 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
+    "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/00. Image/The Five Stages of Ethical Hacking 01.png",
+    "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/00. Image",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md",
+    "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/01. The Five Stages of Ethical Hacking.md",
+    "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/05. Functions.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/03. Navigating the File System.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/02. Sudo Overview.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/01. Introduction.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/02. Strings.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/03. Math.md",
     "README.md",
@@ -175,8 +179,6 @@
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/04. TCP, UDP and the Three Way Handshake.md",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/02. IP Addresses.md",
     "Practical Ethical Hacking - The Complete Course/01. Introduction/01. Course Introduction.md",
-    "Practical Ethical Hacking - The Complete Course/01. Introduction/02. A Day in the Life of an Ethical Hacker.md",
-    "Practical Ethical Hacking - The Complete Course/New Capstone/03. Dev.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev02.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev01.png",
@@ -191,8 +193,6 @@
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Network Refresher - Subnetting.webp",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/R.gif",
     "Images",
-    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Network Refresher - OSI Model.png",
-    "Preperation/Practical Ethical Hacking - The Complete Course/Images",
-    "Preperation/Practical Ethical Hacking - The Complete Course"
+    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Network Refresher - OSI Model.png"
   ]
 }
