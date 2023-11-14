@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6d24e3fb6605dc80",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md"
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/03. Math.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/02. Strings.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/05. Functions.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/03. Navigating the File System.md",
+    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/02. Sudo Overview.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/01. Introduction.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/02. Strings.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/03. Math.md",
     "README.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/09. Scripting with Bash.md",
@@ -160,8 +164,6 @@
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/06. Viewing, Creating, and Editing Files.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/04. Users and Privileges.md",
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/02. Sudo Overview.md",
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/03. Navigating the File System.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/01. Exploring Kali Linux.md",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/07. Subnetting Part 1 & 2.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux",
@@ -175,8 +177,6 @@
     "Practical Ethical Hacking - The Complete Course/01. Introduction/01. Course Introduction.md",
     "Practical Ethical Hacking - The Complete Course/01. Introduction/02. A Day in the Life of an Ethical Hacker.md",
     "Practical Ethical Hacking - The Complete Course/New Capstone/03. Dev.md",
-    "Practical Ethical Hacking - The Complete Course/New Capstone/02. Academy.md",
-    "Practical Ethical Hacking - The Complete Course/New Capstone/01. Blue.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev02.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev01.png",
