@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/01. Passive Reconnaissance Overview.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/01. Passive Reconnaissance Overview.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/01. Passive Reconnaissance Overview.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/01. Passive Reconnaissance Overview.md"
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/10. Looping.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/09. Tuples.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/08. Lists.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/07.  Conditional Statements.md",
+    "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/01. Passive Reconnaissance Overview.md",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/00. image/Passive Reconnaissance Overview 02.png",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/00. image/Passive Reconnaissance Overview 01.png",
     "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/01. The Five Stages of Ethical Hacking.md",
-    "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/01. Passive Reconnaissance Overview.md",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/00. image",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)",
     "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/00. Image/The Five Stages of Ethical Hacking 01.png",
@@ -179,10 +184,6 @@
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/00. image/Subnetting Part 1 & 2 Exel sheet.png",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/06. The OSI Model.md",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/05. Common Ports and Protocols.md",
-    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/01. Introduction.md",
-    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/03. MAC Addresses.md",
-    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/04. TCP, UDP and the Three Way Handshake.md",
-    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/02. IP Addresses.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev02.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev01.png",
@@ -192,7 +193,6 @@
     "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/Video Walkthroughs/Capstone Blue.mp4",
     "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/Video Walkthroughs",
     "Preperation/Practical Ethical Hacking - The Complete Course/New Capstone",
-    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Network Refresher - Private IP Address.jpg",
-    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Network Refresher - Subnetting.webp"
+    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Network Refresher - Private IP Address.jpg"
   ]
 }
