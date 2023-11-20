@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/15. Building a Port Scanner.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/15. Building a Port Scanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md",
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/15. Building a Port Scanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md"
+                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/15. Building a Port Scanner.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/10. Looping.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/14. Sockets.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/15. Building a Port Scanner.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/13. Importing Modules.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/12. Dictionaries.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/10. Looping.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/09. Tuples.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/08. Lists.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/07.  Conditional Statements.md",
@@ -178,12 +182,8 @@
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/06. Viewing, Creating, and Editing Files.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/04. Users and Privileges.md",
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/01. Exploring Kali Linux.md",
-    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/07. Subnetting Part 1 & 2.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/00. image/Subnetting Part 1 & 2 Exel sheet.png",
-    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/06. The OSI Model.md",
-    "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/05. Common Ports and Protocols.md",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev02.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev01.png",
