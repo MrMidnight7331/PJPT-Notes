@@ -41,4 +41,28 @@ For the best experience, open in Obsidian! :)
 [[08. Installing and Updating Tools]]
 [[09. Scripting with Bash]]
 
+**5. Introduction to Python**
+[[Practical Ethical Hacking - The Complete Course/05. Introduction to Python/01. Introduction|01. Introduction]]
+[[02. Strings]]
+[[03. Math]]
+[[04. Variables and Methods]]
+[[05. Functions]]
+[[06. Boolean Expressions and Relational Operators]]
+[[07.  Conditional Statements]]
+[[08. Lists]]
+[[09. Tuples]]
+[[10. Looping]]
+[[11. Advanced Strings]]
+[[12. Dictionaries]]
+[[13. Importing Modules]]
+[[14. Sockets]]
+[[15. Building a Port Scanner]]
+[[16.  User Input]]
+[[17. Reading and Writing Files]]
+[[18. Classes and Objects]]
+[[19. Building a Shoe Budget Tool]]
+
+**6. The Ethical Hacker Methodology**
+[[01. The Five Stages of Ethical Hacking]]
+
 ---

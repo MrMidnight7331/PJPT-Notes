@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/15. Building a Port Scanner.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 327
   },
   "right": {
     "id": "6d24e3fb6605dc80",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/15. Building a Port Scanner.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/15. Building a Port Scanner.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/15. Building a Port Scanner.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/14. Sockets.md",
+    "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/00. Image/The Five Stages of Ethical Hacking 01.png",
+    "README.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/01. Introduction.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/19. Building a Shoe Budget Tool.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/18. Classes and Objects.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/17. Reading and Writing Files.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/16.  User Input.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/15. Building a Port Scanner.md",
+    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/14. Sockets.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/13. Importing Modules.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/12. Dictionaries.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md",
@@ -163,25 +170,17 @@
     "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/01. The Five Stages of Ethical Hacking.md",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/00. image",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)",
-    "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/00. Image/The Five Stages of Ethical Hacking 01.png",
     "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/00. Image",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/06. Boolean Expressions and Relational Operators.md",
     "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/05. Functions.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/03. Navigating the File System.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/02. Sudo Overview.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/01. Introduction.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/02. Strings.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/04. Variables and Methods.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/03. Math.md",
-    "README.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/09. Scripting with Bash.md",
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/08. Installing and Updating Tools.md",
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/07. Starting and Stopping Services.md",
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/06. Viewing, Creating, and Editing Files.md",
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/05. Common Network Commands.md",
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux/04. Users and Privileges.md",
     "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/00. image/Subnetting Part 1 & 2 Exel sheet.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
