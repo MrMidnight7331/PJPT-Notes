@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/Post Exploitation/02. Maintaining Access Overview.md",
+                "file": "Practical Ethical Hacking - The Complete Course/Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6d24e3fb6605dc80",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/Post Exploitation/02. Maintaining Access Overview.md",
+                "file": "Practical Ethical Hacking - The Complete Course/Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/Post Exploitation/02. Maintaining Access Overview.md",
+                "file": "Practical Ethical Hacking - The Complete Course/Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/Post Exploitation/02. Maintaining Access Overview.md"
+                "file": "Practical Ethical Hacking - The Complete Course/Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "58240b5698c261b0",
   "lastOpenFiles": [
-    "Practical Ethical Hacking - The Complete Course/Post Exploitation/01. File Transfers Review.md",
+    "Practical Ethical Hacking - The Complete Course/Web Application Enumeration, Revisited/02. Finding Subdomains with Amass.md",
+    "Practical Ethical Hacking - The Complete Course/Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md",
+    "Practical Ethical Hacking - The Complete Course/Web Application Enumeration, Revisited/01. Finding Subdomains with Assetfinder.md",
+    "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/01. The Five Stages of Ethical Hacking.md",
+    "Practical Ethical Hacking - The Complete Course/Post Exploitation/Cleaning Up.md",
+    "Practical Ethical Hacking - The Complete Course/Web Application Enumeration, Revisited",
+    "Practical Ethical Hacking - The Complete Course/Post Exploitation/03. Pivoting.md",
     "Practical Ethical Hacking - The Complete Course/Post Exploitation/02. Maintaining Access Overview.md",
+    "Practical Ethical Hacking - The Complete Course/Post Exploitation/00. Image/pivoting.webp",
+    "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/00. Image/The Five Stages of Ethical Hacking 01.png",
+    "Practical Ethical Hacking - The Complete Course/Post Exploitation/00. Image",
+    "Practical Ethical Hacking - The Complete Course/Post Exploitation/01. File Transfers Review.md",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/07. Subnetting Part 1 & 2.md",
     "Practical Ethical Hacking - The Complete Course/Post Exploitation",
     "Practical Ethical Hacking - The Complete Course/Exploitation Basics/02. Brute Force Attacks, Credential Stuffing & Password Spraying.md",
@@ -167,8 +177,6 @@
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/01. Passive Reconnaissance Overview.md",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/00. image",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)",
-    "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/00. Image/The Five Stages of Ethical Hacking 01.png",
-    "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/01. The Five Stages of Ethical Hacking.md",
     "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/00. Image",
     "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/19. Building a Shoe Budget Tool.md",
@@ -179,20 +187,12 @@
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/14. Sockets.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/13. Importing Modules.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/12. Dictionaries.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/11. Advanced Strings.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/10. Looping.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/08. Lists.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/09. Tuples.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/07.  Conditional Statements.md",
     "Practical Ethical Hacking - The Complete Course/05. Introduction to Python",
-    "Practical Ethical Hacking - The Complete Course/04. Introduction to Linux",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/00. image/Subnetting Part 1 & 2 Exel sheet.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev02.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev01.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Academy02.png",
-    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Academy01.png",
-    "Preperation/Practical Ethical Hacking - The Complete Course/Capstone/Images",
-    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Network Refresher - Private IP Address.jpg"
+    "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Academy01.png"
   ]
 }
