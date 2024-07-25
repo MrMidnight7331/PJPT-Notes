@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "645cb7a5f8317be5",
+        "id": "d92a5941e8960f88",
         "type": "tabs",
         "children": [
           {
-            "id": "58240b5698c261b0",
+            "id": "dfe00f6796bed08b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/21. Wireless Penetration Testing/01. Wireless Penetration Testing Overview.md",
+                "file": "Practical Ethical Hacking - The Complete Course/09. New Capstone/01. Blue.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +64,24 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "58240b5698c261b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical Ethical Hacking - The Complete Course/21. Wireless Penetration Testing/01. Wireless Penetration Testing Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318
   },
   "right": {
     "id": "6d24e3fb6605dc80",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/21. Wireless Penetration Testing/01. Wireless Penetration Testing Overview.md",
+                "file": "Practical Ethical Hacking - The Complete Course/09. New Capstone/01. Blue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/21. Wireless Penetration Testing/01. Wireless Penetration Testing Overview.md",
+                "file": "Practical Ethical Hacking - The Complete Course/09. New Capstone/01. Blue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/21. Wireless Penetration Testing/01. Wireless Penetration Testing Overview.md"
+                "file": "Practical Ethical Hacking - The Complete Course/09. New Capstone/01. Blue.md"
               }
             }
           },
@@ -156,8 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b90772c7d436bae1",
+  "active": "dfe00f6796bed08b",
   "lastOpenFiles": [
+    "Practical Ethical Hacking - The Complete Course/09. New Capstone/02. Academy.md",
+    "Practical Ethical Hacking - The Complete Course/09. New Capstone/03. Dev.md",
+    "Practical Ethical Hacking - The Complete Course/09. New Capstone/01. Blue.md",
     "Practical Ethical Hacking - The Complete Course/21. Wireless Penetration Testing/01. Wireless Penetration Testing Overview.md",
     "2024-04-29.md",
     "Practical Ethical Hacking - The Complete Course/11. Active Directory Overview/01. Active Directory Overview.md",
@@ -195,9 +210,6 @@
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/04. Identifying Website Technologies.md",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/03. Hunting Subdomains Part 1, 2.md",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/02. Gathering Email and Breached Credentials.md",
-    "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/01. Passive Reconnaissance Overview.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/19. Building a Shoe Budget Tool.md",
-    "Practical Ethical Hacking - The Complete Course/05. Introduction to Python/18. Classes and Objects.md",
     "Practical Ethical Hacking - The Complete Course/03. Networking Refresher/00. image/Subnetting Part 1 & 2 Exel sheet.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev03.png",
     "Preperation/Practical Ethical Hacking - The Complete Course/Images/Capstone Dev02.png",
