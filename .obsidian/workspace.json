@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/11. New Capstone/04. Blackpearl.md",
+                "file": "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz large Cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/11. New Capstone/04. Blackpearl.md",
+                "file": "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz large Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/11. New Capstone/04. Blackpearl.md",
+                "file": "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz large Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/11. New Capstone/04. Blackpearl.md"
+                "file": "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz large Cheatsheet.md"
               }
             }
           },
@@ -158,9 +158,15 @@
   },
   "active": "66a80b964bf63055",
   "lastOpenFiles": [
-    "Practical Ethical Hacking - The Complete Course/11. New Capstone/03. Dev.md",
-    "Practical Ethical Hacking - The Complete Course/11. New Capstone/04. Blackpearl.md",
+    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz Overview & Credential Dumping.md",
+    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/01.5. Crackmapexec large Cheatsheet.md",
+    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz large Cheatsheet.md",
+    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/01. Pass Attacks Overview.md",
+    "Practical Ethical Hacking - The Complete Course/10. Exploitation Basics/01. Shells & Payloads.md",
+    "Practical Ethical Hacking - The Complete Course/10. Exploitation Basics/02. Brute Force Attacks, Credential Stuffing & Password Spraying.md",
     "Practical Ethical Hacking - The Complete Course/11. New Capstone/02. Academy.md",
+    "Practical Ethical Hacking - The Complete Course/11. New Capstone/04. Blackpearl.md",
+    "Practical Ethical Hacking - The Complete Course/11. New Capstone/03. Dev.md",
     "Practical Ethical Hacking - The Complete Course/12. Active Directory Overview/01. Active Directory Overview.md",
     "Practical Ethical Hacking - The Complete Course/12. Active Directory Overview/02. Physical & Logical AD Components.md",
     "Practical Ethical Hacking - The Complete Course/11. New Capstone/01. Blue.md",
@@ -195,12 +201,6 @@
     "Practical Ethical Hacking - The Complete Course/11. New Capstone/00. image/Capstone Dev01.png",
     "Practical Ethical Hacking - The Complete Course/11. New Capstone/00. image/Capstone Academy02.png",
     "Practical Ethical Hacking - The Complete Course/11. New Capstone/00. image/Capstone Academy01.png",
-    "Practical Ethical Hacking - The Complete Course/10. Exploitation Basics/02. Brute Force Attacks, Credential Stuffing & Password Spraying.md",
-    "Practical Ethical Hacking - The Complete Course/10. Exploitation Basics/01. Shells & Payloads.md",
-    "Practical Ethical Hacking - The Complete Course/09. New Capstone/02. Academy.md",
-    "Practical Ethical Hacking - The Complete Course/09. New Capstone/03. Dev.md",
-    "Practical Ethical Hacking - The Complete Course/21. Wireless Penetration Testing/01. Wireless Penetration Testing Overview.md",
-    "2024-04-29.md",
     "Practical Ethical Hacking - The Complete Course/18. Post Exploitation/00. Image/pivoting.webp",
     "Practical Ethical Hacking - The Complete Course/06. The Ethical Hacker Methodology/00. Image/The Five Stages of Ethical Hacking 01.png",
     "Practical Ethical Hacking - The Complete Course/07. Information Gathering (Reconnaissance)/00. image/Passive Reconnaissance Overview 02.png"
