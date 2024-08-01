@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz large Cheatsheet.md",
+                "file": "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/05. SMB Relay Attacks Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz large Cheatsheet.md",
+                "file": "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/05. SMB Relay Attacks Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz large Cheatsheet.md",
+                "file": "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/05. SMB Relay Attacks Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz large Cheatsheet.md"
+                "file": "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/05. SMB Relay Attacks Lab.md"
               }
             }
           },
@@ -158,10 +158,17 @@
   },
   "active": "66a80b964bf63055",
   "lastOpenFiles": [
-    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz Overview & Credential Dumping.md",
+    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/02. Capturing Hashes with Responder.md",
+    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/01. LLMNR Poisoning Overview.md",
+    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/05. SMB Relay Attacks Lab.md",
+    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/04. SMB Relay Attacks Overview.md",
+    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/03. Cracking Our Captured Hashes.md",
+    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/01. Pass Attacks Overview.md",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/01.5. Crackmapexec large Cheatsheet.md",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz large Cheatsheet.md",
-    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/01. Pass Attacks Overview.md",
+    "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/01. Post-Domain Compromise Attack Strategy.md",
+    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/03. LLMNR Poison Mitigation.md",
+    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/Mimikatz Overview & Credential Dumping.md",
     "Practical Ethical Hacking - The Complete Course/10. Exploitation Basics/01. Shells & Payloads.md",
     "Practical Ethical Hacking - The Complete Course/10. Exploitation Basics/02. Brute Force Attacks, Credential Stuffing & Password Spraying.md",
     "Practical Ethical Hacking - The Complete Course/11. New Capstone/02. Academy.md",
@@ -187,15 +194,8 @@
     "Practical Ethical Hacking - The Complete Course/21. Web Application Enumeration, Revisited/05.   Automating the Enumeration Process.md",
     "Practical Ethical Hacking - The Complete Course/21. Web Application Enumeration, Revisited/02. Finding Subdomains with Amass.md",
     "Practical Ethical Hacking - The Complete Course/21. Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md",
-    "Practical Ethical Hacking - The Complete Course/21. Web Application Enumeration, Revisited/01. Finding Subdomains with Assetfinder.md",
     "Practical Ethical Hacking - The Complete Course/20. Post Exploitation/00. Image/pivoting.webp",
-    "Practical Ethical Hacking - The Complete Course/20. Post Exploitation/Cleaning Up.md",
-    "Practical Ethical Hacking - The Complete Course/20. Post Exploitation/02. Maintaining Access Overview.md",
-    "Practical Ethical Hacking - The Complete Course/20. Post Exploitation/03. Pivoting.md",
-    "Practical Ethical Hacking - The Complete Course/20. Post Exploitation/01. File Transfers Review.md",
     "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/LLMNR Poisoning Overview 01.png",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/02. LLMNR Poison Mitigation.md",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/01. LLMNR Poisoning Overview.md",
     "Practical Ethical Hacking - The Complete Course/11. New Capstone/00. image/Capstone Dev03.png",
     "Practical Ethical Hacking - The Complete Course/11. New Capstone/00. image/Capstone Dev02.png",
     "Practical Ethical Hacking - The Complete Course/11. New Capstone/00. image/Capstone Dev01.png",
