@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/07.  Kerberoasting Mitigation.md",
+                "file": "Practical Ethical Hacking - The Complete Course/21. Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271
+    "width": 200
   },
   "right": {
     "id": "6d24e3fb6605dc80",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/07.  Kerberoasting Mitigation.md",
+                "file": "Practical Ethical Hacking - The Complete Course/21. Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/07.  Kerberoasting Mitigation.md",
+                "file": "Practical Ethical Hacking - The Complete Course/21. Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/07.  Kerberoasting Mitigation.md"
+                "file": "Practical Ethical Hacking - The Complete Course/21. Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md"
               }
             }
           },
@@ -171,8 +171,14 @@
   },
   "active": "4dce1d795de6ebcd",
   "lastOpenFiles": [
-    "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/06. Kerberosting Walkthrough.md",
+    "Practical Ethical Hacking - The Complete Course/21. Web Application Enumeration, Revisited/01. Finding Subdomains with Assetfinder.md",
+    "Practical Ethical Hacking - The Complete Course/23. Wireless Penetration Testing/02. WPA PS2 Exploit Walkthrough.md",
+    "README.md",
+    "Practical Ethical Hacking - The Complete Course/23. Wireless Penetration Testing/01. Wireless Penetration Testing Overview.md",
+    "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/10. Token Impersonation Mitigation.md",
+    "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/08. Token Impersonation Overview.md",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/07.  Kerberoasting Mitigation.md",
+    "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/06. Kerberosting Walkthrough.md",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/05. Kerberoasting Overview.md",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image/kerberosting overview 01.png",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image/Screenshot 2024-08-08 160342.png",
@@ -196,16 +202,10 @@
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/domain enumeration with plumhound 01.png",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/Screenshot 2024-08-05 123548.png",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/01.  Domain Enumeration with ldapdomaindump.md",
-    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/02. Domain Enumeration with Bloodhound.md",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/domain enumeration with ldapdomaindump 01.png",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/Screenshot 2024-08-05 120111.png",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image",
-    "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/Mimikatz large Cheatsheet.md",
-    "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/Mimikatz Overview & Credential Dumping.md",
     "Practical Ethical Hacking - The Complete Course/08. Scanning & Enumeration (empty)",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/10. IPv6 DNS Takeover via mitm6.md",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/09. IPv6 Attacks Overview.md",
-    "IPv6 Attacks Overview.md",
     "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/Passback Attacks 04.webp",
     "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/63702c4c0ce0bd335333b3d5_replacing-existing-SMTP-server-with-our-own-SMTP-server.webp",
     "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/Passback Attacks 03.webp",
